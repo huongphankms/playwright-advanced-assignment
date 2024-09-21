@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Sep 21 15:40:30 GMT 2024","Sat Sep 21 15:40:31 GMT 2024","1289","chromium","Exercise/test/playwright_Advanced_Assignment.spec.ts","@exercise @smoke @regression","","","Test case: User login and order two products productName4 and productName6",""
+"passed","Sat Sep 21 15:40:32 GMT 2024","Sat Sep 21 15:40:32 GMT 2024","216","teardown","Exercise/dependencies-teardown.ts","","","","Clean up",""
+"passed","Sat Sep 21 15:40:29 GMT 2024","Sat Sep 21 15:40:30 GMT 2024","1280","chromium","Exercise/test/playwright_Advanced_Assignment.spec.ts","@exercise @smoke @regression","","","Test case: User login and order two products productName3 and productName5",""
+"passed","Sat Sep 21 15:40:25 GMT 2024","Sat Sep 21 15:40:27 GMT 2024","2062","setup","Exercise/dependencies-setup.ts","","","","Dependencies setup",""
+"passed","Sat Sep 21 15:40:27 GMT 2024","Sat Sep 21 15:40:29 GMT 2024","1489","chromium","Exercise/test/playwright_Advanced_Assignment.spec.ts","@exercise @smoke @regression","","","Test case: User login and order two products productName1 and productName2",""
