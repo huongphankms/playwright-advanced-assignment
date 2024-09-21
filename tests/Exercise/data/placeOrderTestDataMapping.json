@@ -1,0 +1,27 @@
+[
+  {
+    "product1" : "productName1",
+    "product2" : "productName2",
+    "numberOfProducts" : 2,
+    "firstName" : "Huong",
+    "lastName" : "Phan",
+    "postalCode" : "1235"
+  },
+  {
+    "product1" : "productName3",
+    "product2" : "productName5",
+    "numberOfProducts": 2,
+    "firstName" : "Huong",
+    "lastName" : "Phan",
+    "postalCode" : "1235"
+  },
+  {
+    "product1" : "productName4",
+    "product2" : "productName6",
+    "numberOfProducts": 2,
+    "firstName" : "Huong",
+    "lastName" : "Phan",
+    "postalCode" : "5678"
+  }
+]
+  
